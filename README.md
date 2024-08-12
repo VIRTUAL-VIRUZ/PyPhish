@@ -1,5 +1,3 @@
----
-
 **PyPhish: Advanced Phishing Link Scanner**
 
 PyPhish is a terminal-based tool designed to detect and analyze phishing URLs. It combines URL parsing, blacklist comparison, content analysis, and machine learning to identify potential phishing threats and report on the possible harm they might cause.
